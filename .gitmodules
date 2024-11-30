@@ -1,0 +1,21 @@
+[submodule "Cpp-Homework"]
+	path = Cpp-Homework
+	url = https://github.com/Ayaloia/Cpp-Homework.git
+[submodule "AI-Intro-Homework"]
+	path = AI-Intro-Homework
+	url = https://github.com/Ayaloia/AI-Intro-Homework.git
+[submodule "CSharp-Homework"]
+	path = CSharp-Homework
+	url = https://github.com/Ayaloia/CSharp-Homework.git
+[submodule "Mobile-Programming-Homework"]
+	path = Mobile-Programming-Homework
+	url = https://github.com/Ayaloia/Mobile-Programming-Homework.git
+[submodule "Computer-Network-Homework"]
+	path = Computer-Network-Homework
+	url = https://github.com/Ayaloia/Computer-Network-Homework.git
+[submodule "Dotnet-Homework"]
+	path = Dotnet-Homework
+	url = https://github.com/Ayaloia/Dotnet-Homework.git
+[submodule "Windows-Homework"]
+	path = Windows-Homework
+	url = https://github.com/Ayaloia/Windows-Homework.git
