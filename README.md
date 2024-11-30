@@ -15,7 +15,7 @@ Eight-Puzzle-Qt-Astar-SA
 
 八数码难题的 A* 和模拟退火解决方案，使用 Qt 框架。
 
-## [件构造基础作业](https://github.com/Ayaloia/CSharp-Homework.git)
+## [软件构造基础作业](https://github.com/Ayaloia/CSharp-Homework.git)
 
 包含平时作业和大作业，大作业为 qq 机器人的实现。
 
@@ -31,7 +31,7 @@ Eight-Puzzle-Qt-Astar-SA
 
 C# 实现的简单 FTP 客户端。
 
-## [.NET架构程序设计作业](https://github.com/Ayaloia/Dotnet-Homework)
+## [.NET 架构程序设计作业](https://github.com/Ayaloia/Dotnet-Homework)
 
 包含平时作业和大作业，大作业为一个匿名问答社区的实现，分为前后端。
 
