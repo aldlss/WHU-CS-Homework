@@ -19,3 +19,9 @@
 [submodule "Windows-Homework"]
 	path = Windows-Homework
 	url = https://github.com/Ayaloia/Windows-Homework.git
+[submodule "Compiling-Homework"]
+	path = Compiling-Homework
+	url = https://github.com/Ayaloia/Compiling-Homework.git
+[submodule "Embedded-System-Experiment"]
+	path = Embedded-System-Experiment
+	url = https://github.com/Ayaloia/Embedded-System-Experiment.git

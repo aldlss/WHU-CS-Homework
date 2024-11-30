@@ -38,3 +38,15 @@ C# 实现的简单 FTP 客户端。
 ## [Windows 原理与应用实验](https://github.com/Ayaloia/Windows-Homework)
 
 包含三个平时作业，分别为 dll, com 的使用；跨进程通信；代理、事件的使用。
+
+## [编译原理大作业](https://github.com/Ayaloia/Compiling-Homework)
+
+为实现一个 CMINUS 语言的词法分析和语法分析器。
+
+## [嵌入式系统实验](https://github.com/Ayaloia/Embedded-System-Experiment.git)
+
+实现了在 rvfpga 移植 rtthread 系统。
+
+## 其他
+
+太散了，也没有 git 记录，懒得整理了，大概也是不重要的作业罢。
